@@ -1,0 +1,5 @@
+package example:hono@0.1.0;
+
+world component {
+    include wasi:http/proxy@0.2.6;
+}
